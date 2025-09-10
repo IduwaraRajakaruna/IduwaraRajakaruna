@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Iduwara Rajakaruna
+# 👋 Hi there, I'm Iduwara Rajakaruna  
 
 <div align="center">
 
@@ -16,19 +16,22 @@
 - 💻 **Full Stack Developer** passionate about building web applications  
 - 🚀 Currently working on **AI PAZZ** – Legal workflow automation system  
 - 🌱 Exploring **React, Tailwind, .NET, Azure Cloud**  
-- 📫 Reach me at: **[rajakarunaib.22@uom.lk](mailto:iduwararajakaruna5555@gmail.com)**  
+- 📫 Reach me at: **[iduwararajakaruna5555@gmail.com](mailto:iduwararajakaruna5555@gmail.com)**  
 
 ---
 
 ## 🌐 Connect With Me  
 
 <div align="center">
-<a href="https://[www.linkedin.com/in/iduwara-rajakaruna](http://www.linkedin.com/in/iduwara-rajakaruna-0a0a98279)" target="_blank">
+
+<a href="https://www.linkedin.com/in/iduwara-rajakaruna/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:rajakarunaib.22@uom.lk" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="mailto:iduwararajakaruna5555@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </div>
 
 ---
